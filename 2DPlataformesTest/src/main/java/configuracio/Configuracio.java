@@ -1,6 +1,6 @@
 
 package configuracio;
-//configuracio test
+//configuracio test 2
 
 /**
  *
